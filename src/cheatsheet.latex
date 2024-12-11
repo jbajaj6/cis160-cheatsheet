@@ -105,7 +105,7 @@ $p$ is a $sufficient$ condition for $q$ means $p \implies q$. $p$ is a $necessar
 \section{Number Theory}
 \subsection{Definitions:} 
 An integer $n$ is $even$ iff $n = 2k$ for some integer $k$. An integer is $odd$ iff $n = 2k + 1$ for some integer $k$. \\
-An integer $n$ is $prime$ iff $n > 1$ and for all positive integers $r$ and $s$, if $n = r$, then $r = 1$ or $s = 1$. Otherwise, $n$ is $composite$. \\
+An integer $n$ is $prime$ iff $n > 1$ and for all positive integers $r$ and $s$, if $n = rs$, then $r = 1$ or $s = 1$. Otherwise, $n$ is $composite$. \\
 An integer $n$ being divisible by an integer $k$ is denoted by $k | n$.
 By the $prime$ $factorization$ $theorem$, every positive integer can be uniquely represented as a product of primes. 
 \subsection{Proofs:}
